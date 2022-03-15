@@ -1,6 +1,2 @@
-
-let name = 'Brian'; // String Literal
-let age = 20; // NUmber Literal
-let isApproved = false; // Boolean literal
-let firstName = undefined;
-let selectedColor = null;
+// This will show in your console if you press F12
+console.log('Say hello to javascript')
